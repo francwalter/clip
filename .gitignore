@@ -2,3 +2,6 @@
 /.idea
 
 config.php
+/info-CLIPBOARD.txt
+/.htaccess
+/.htpasswd
